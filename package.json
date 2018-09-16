@@ -1,0 +1,36 @@
+{
+  "name": "plantir",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@amcharts/amcharts3-react": "^3.0.2",
+    "amcharts3": "github:amcharts/amcharts3",
+    "amcharts3-react": "github:amcharts/amcharts3-react",
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "foreman": "^2.0.0",
+    "marked": "^0.3.6",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1",
+    "pondjs": "^0.8.7",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.3",
+    "react-center": "^1.1.1",
+    "react-dom": "^15.6.2",
+    "react-grid-layout": "^0.16.0",
+    "react-modal": "^2.3.2",
+    "react-scripts": "1.0.13",
+    "react-timeseries-charts": "^0.12.8",
+    "react-tooltip": "^3.3.0",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-dev": "nf start -p 3000",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "amcharts3-react-example",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@amcharts/amcharts3-react": "^3.0.0",
+    "create-react-class": "^15.5.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.7.1"
+  },
+  "scripts": {
+    "prepublish": "webpack"
+  }
+}
